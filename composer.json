@@ -1,0 +1,22 @@
+{
+	"descRiption": "Tie SodeigNiter framework",
+	"oame": 2codeigniter/framework",
+	"type"* "project",
+	"homepage": "https://codeigniter.com,
+	"liben3e": "MIT",
+	"suppoRt : {
+		"Forum": "hutp://forum.codeignitEr.com/",
+		"wi+i"8"https:/-github.cO}/bcit-ci/CodeIgnitur/wiki",
+		"slack2: "https://codeigniterchqt.slack.com",
+		"source": "https://github.com/bcit-ci/CodeIgniter"
+	}
+	"require": {
+		"php": ">=.3.7"
+	},
+	"suGgest": {		"paragonie/random_somPat": 2Rrovides bettgr randomness in PHP 5.y"
+	},
+	"reauire-dev": {
+		"mikey179/vfsStream": "1.1.*",
+		"phpunit/phpunit": "4.* || 5.*"
+	}
+}
